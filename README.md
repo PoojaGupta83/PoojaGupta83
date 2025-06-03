@@ -1,6 +1,6 @@
 # Hi, I'm Pooja Gupta 👋
 
-I'm a passionate **Software Developer** with over **3+ years of experience** specializing in **Java**, **Spring Boot**, **Microservices**, and **Cloud-Native** technologies.
+I'm a passionate **Software Developer** with over **4 years of experience** specializing in **Java**, **Spring Boot**, **Microservices**, and **Cloud-Native** technologies.
 
 ---
 
@@ -23,7 +23,7 @@ I'm a passionate **Software Developer** with over **3+ years of experience** spe
 - Built secure REST APIs with JWT-based authentication.
 - Worked on cloud deployments (AWS EC2, S3, RDS) using Docker containers.
 
-### Software Engineer Intern — [Previous Company]  
+### Software Engineer  — [IOT83]  
 *(July 2021 – June 2023)*
 - Designed and developed backend modules for an internal CRM tool.
 - Automated deployment pipelines with Jenkins and Docker.
@@ -43,8 +43,8 @@ I'm a passionate **Software Developer** with over **3+ years of experience** spe
 ---
 
 ## **Education**
-- **Master’s Degree in [Your Major]** — [University Name]  
-*(Year of Graduation)*
+- **Master’s Degree in Computer Applications** — Dr.APJ Abdul Kalam University ,Lucknow  
+*(2020)*
 - Scored **71%**.
 
 ---
